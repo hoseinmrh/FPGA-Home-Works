@@ -8,4 +8,4 @@ Part #1 of project added. <br />
 _________________________________ <br />
 Part #2 of project added. <br />
 _________________________________ <br />
-Part ## of project added. <b>NOTE: "Please read about quadritic method by yourself too"<b/>
+Part #3 of project added. <b>NOTE: "Please read about quadritic method by yourself too"<b/>
