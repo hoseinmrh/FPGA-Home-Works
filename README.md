@@ -4,4 +4,6 @@ _________________________________
 Project folder added.<br />
 In config.py we generate a text file that will generate the structure of LUT memory. <br />
 _________________________________ <br />
-Part #1 of project added.
+Part #1 of project added. <br />
+_________________________________ <br />
+Part #2 of project added.
