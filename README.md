@@ -6,4 +6,6 @@ In config.py we generate a text file that will generate the structure of LUT mem
 _________________________________ <br />
 Part #1 of project added. <br />
 _________________________________ <br />
-Part #2 of project added.
+Part #2 of project added. <br />
+_________________________________ <br />
+Part ## of project added. <b>NOTE: "Please read about quadritic method by yourself too"<b/>
