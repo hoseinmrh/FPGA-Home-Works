@@ -8,7 +8,7 @@ Part #1 of project added. <br />
 _________________________________ <br />
 Part #2 of project added. <br />
 _________________________________ <br />
-Part #3 of project added. <b>NOTE: "Please read about quadritic method by yourself too"<b/>
+Part #3 of project added. <b>NOTE: "Please read about quadritic method by yourself too"<b/>  <br />
 _________________________________ <br />
 Link: <br />
 https://drive.google.com/drive/folders/1QYYya_kmXC9NZ0FQSFj5EPleh8qbZcsM?usp=sharing
